@@ -4,3 +4,6 @@ Este arquivo contem comandos secundarios de git
 - segundo comando
 - comandos fds
 - outros comandos
+- so comando malucos se ta doido
+- pew pew
+- miau miau
