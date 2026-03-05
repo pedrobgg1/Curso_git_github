@@ -19,3 +19,13 @@ Percebi a utilidade do git para conversar entre o time de dados de uma empresa
 
 Simplesmente execpional
 
+
+
+Alem disso o VS Code é muito maneiro
+
+
+Da para fazer altas paradas nele
+
+
+E com ele o git fica muito mais simples e dinamico
+
