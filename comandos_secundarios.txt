@@ -2,3 +2,5 @@ Este arquivo contem comandos secundarios de git
 
 - primeiro comando
 - segundo comando
+- comandos fds
+- outros comandos
